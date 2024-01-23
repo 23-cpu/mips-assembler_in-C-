@@ -30,4 +30,5 @@ The assembler supports the following instruction set:
     After compiling, run:
     $ ./assembler add.asm add.txt
 
-#Version
+#Version 1
+#Version 2
