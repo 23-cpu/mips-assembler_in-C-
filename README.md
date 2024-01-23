@@ -29,3 +29,5 @@ The assembler supports the following instruction set:
 # Run
     After compiling, run:
     $ ./assembler add.asm add.txt
+
+#Version
